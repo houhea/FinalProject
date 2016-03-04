@@ -1,0 +1,8 @@
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\bin\Debug\FinalCode.exe
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\bin\Debug\FinalCode.pdb
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.Form1.resources
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.Properties.Resources.resources
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.csproj.GenerateResource.Cache
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.exe
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.pdb
+C:\Users\houhea\Documents\GitHub\FinalProject\FinalCode\FinalCode\obj\x86\Debug\FinalCode.csprojResolveAssemblyReference.cache
